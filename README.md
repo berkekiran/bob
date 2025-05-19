@@ -1,4 +1,4 @@
-# BOB (Better Order Bot)
+# BOB 
 
 A flexible cryptocurrency trading bot designed to automate trading strategies across cryptocurrency exchanges. BOB provides a framework for implementing, testing, and deploying trading strategies for both simulation and real trading environments.
 
