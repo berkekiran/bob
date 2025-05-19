@@ -1,6 +1,6 @@
-# BOB (Binance Optimized Bot)
+# BOB (Better Order Bot)
 
-A cryptocurrency trading bot designed to automate trading strategies on Binance exchange. BOB provides a framework for implementing, testing, and deploying trading strategies for both simulation and real trading.
+A flexible cryptocurrency trading bot designed to automate trading strategies across cryptocurrency exchanges. BOB provides a framework for implementing, testing, and deploying trading strategies for both simulation and real trading environments.
 
 ## Features
 
