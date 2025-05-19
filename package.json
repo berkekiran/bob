@@ -1,0 +1,23 @@
+{
+  "name": "bob",
+  "version": "1.0.0",
+  "description": "Nobody knows what Bob is doing. It's a mystery.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "sim": "cross-env TRADE_TYPE=simulation node src/index.js",
+    "real": "cross-env TRADE_TYPE=real node src/index.js",
+    "import": "node src/database.js"
+  },
+  "dependencies": {
+    "binance-api-node": "^0.12.6",
+    "cli-progress": "^3.12.0",
+    "cross-env": "^7.0.3",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.3.1",
+    "sqlite": "^5.0.1",
+    "sqlite3": "^5.1.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
