@@ -1,6 +1,10 @@
 # BOB 
 
-A flexible cryptocurrency trading bot designed to automate trading strategies across cryptocurrency exchanges. BOB provides a framework for implementing, testing, and deploying trading strategies for both simulation and real trading environments.
+Nobody knows what Bob is doing. It's a mystery.
+
+OK, maybe not...
+
+Bob provides a framework for implementing, testing, and deploying trading strategies for both simulation and real trading environments.
 
 ## Features
 
